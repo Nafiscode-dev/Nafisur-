@@ -1,0 +1,6 @@
+{
+  "name": "nbot",
+  "description": "Bangladesh's funniest, custom sarcastic roast master chatbot. Supporting Bangla, English, and Banglish.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
